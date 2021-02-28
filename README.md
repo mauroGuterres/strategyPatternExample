@@ -1,3 +1,3 @@
-An example of implementation of the strategy pattern.
+An example of strategy pattern implementation.
 Feel free to fork in case of study needs or something.
-Help this little contribution could reach someone who's really need it.
+Hope this little contribution could reach someone who really needs it.
