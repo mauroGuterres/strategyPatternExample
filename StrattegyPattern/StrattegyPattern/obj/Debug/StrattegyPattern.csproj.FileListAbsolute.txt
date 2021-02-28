@@ -1,0 +1,7 @@
+C:\Users\Enton\source\repos\StrattegyPattern\StrattegyPattern\bin\Debug\StrattegyPattern.exe.config
+C:\Users\Enton\source\repos\StrattegyPattern\StrattegyPattern\bin\Debug\StrattegyPattern.exe
+C:\Users\Enton\source\repos\StrattegyPattern\StrattegyPattern\bin\Debug\StrattegyPattern.pdb
+C:\Users\Enton\source\repos\StrattegyPattern\StrattegyPattern\obj\Debug\StrattegyPattern.csprojAssemblyReference.cache
+C:\Users\Enton\source\repos\StrattegyPattern\StrattegyPattern\obj\Debug\StrattegyPattern.csproj.CoreCompileInputs.cache
+C:\Users\Enton\source\repos\StrattegyPattern\StrattegyPattern\obj\Debug\StrattegyPattern.exe
+C:\Users\Enton\source\repos\StrattegyPattern\StrattegyPattern\obj\Debug\StrattegyPattern.pdb
